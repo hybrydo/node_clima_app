@@ -1,6 +1,6 @@
 ## Aplicación del clima en node
 
-```npm install````
+```npm install```
 Para instalar as dependencias
 
 ### Ejemplo: node app -d "almería"
